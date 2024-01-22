@@ -6,8 +6,5 @@ Hello,
 
 My name is Emmanuel Ansah, I am a graduate student and a graduate research assistant in the Department of Economics at Memorial University of Newfoundland.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{}
 ```
