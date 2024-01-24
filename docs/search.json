@@ -18,6 +18,13 @@
     "href": "index.html",
     "title": "Emmanuel Ansah",
     "section": "",
-    "text": "Hello,\nMy name is Emmanuel Ansah, I am a graduate student and a graduate research assistant in the Department of Economics at Memorial University of Newfoundland."
+    "text": "Graduate Student\nDepartment of Economics\nMemorial University of Newfoundland\nGraduate Teaching Assistant\nDepartment of Economics\nMemorial University of Newfoundland"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Emmanuel Ansah",
+    "section": "About",
+    "text": "About\nI am Graduate Student and a Graduate Research Assistant in the Department of Economics at the Memorial University of Newfoundland. My research covers health and labour economics. My current research is focused on the impact of free maternal health care on maternal health seeking behaviour.\n \nUpdated on: r Sys.Date()"
   }
 ]

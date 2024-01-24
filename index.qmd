@@ -2,9 +2,29 @@
 title: "Emmanuel Ansah"
 ---
 
-Hello,
+::: columns
+::: {.column width="40%"}
+  ![](PHOTO-2022-04-10-10-19-31.jpg)
+:::
 
-My name is Emmanuel Ansah, I am a graduate student and a graduate research assistant in the Department of Economics at Memorial University of Newfoundland.
+::: {.column width="60%"}
+### Emmanuel Ansah
 
-```{}
-```
+Graduate Student\
+Department of Economics\
+Memorial University of Newfoundland
+
+Graduate Teaching Assistant\
+Department of Economics
+
+Memorial University of Newfoundland
+:::
+:::
+
+## About
+
+I am Graduate Student and a Graduate Research Assistant in the Department of Economics at the Memorial University of Newfoundland. My research covers health and labour economics. My current research is focused on the impact of free maternal health care on maternal health seeking behaviour.
+
+ 
+
+Updated on: `r Sys.Date()`
