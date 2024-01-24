@@ -6,7 +6,7 @@ title: "Curriculum Vitae (CV)"
 
 
 
-PDF Version [here](docs/Curriculum_Vitae.pdf)
+PDF Version [here](docs/Curriculum Vitae.pdf)
 
 ## Contact Information
 
@@ -14,11 +14,9 @@ Email: [eansah@mun.ca](mailto:eansah@mun.ca)
 
 Phone: (709) 697-7532
 
-Address: Department of Economics   
-         Memorial University of Newfoundland   
-         230 Elizabeth Avenue   
+Address: 19A Petite Forte Drive   
          St. John's, NL, Canada   
-         A1C 5S7
+         A1B 0B2
 
 
 ## Summary of Skills
