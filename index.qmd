@@ -23,8 +23,6 @@ Memorial University of Newfoundland
 
 ## About
 
-I am Graduate Student and a Graduate Research Assistant in the Department of Economics at the Memorial University of Newfoundland. My research covers health and labour economics. My current research is focused on the impact of free maternal health care on maternal health seeking behaviour.
+I am Graduate Student and a Graduate Research Assistant in the Department of Economics at the Memorial University of Newfoundland. I am an accomplished financial professional with over five years of industry experience. Technically astute and decisive with good organizational skills. Candidate of the Canadian Securities Course. Passionate about building sustainable customer relationships, driving brand loyalty and increasing customer engagement. Experienced with sales, troubleshooting, tech support and customer care. Detail-oriented, multi-tasker that excels in high volume customer services environments.
 
  
-
-Updated on: `r Sys.Date()`

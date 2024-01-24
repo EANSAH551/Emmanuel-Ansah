@@ -1,5 +1,82 @@
 ---
 title: "Curriculum Vitae (CV)"
+---editor: visual
+
 ---
 
-# Contact Information
+
+
+PDF Version [here](docs/Curriculum_Vitae.pdf)
+
+## Contact Information
+
+Email: [eansah@mun.ca](mailto:eansah@mun.ca)
+
+Phone: (709) 697-7532
+
+Address: Department of Economics   
+         Memorial University of Newfoundland   
+         230 Elizabeth Avenue   
+         St. John's, NL, Canada   
+         A1C 5S7
+
+
+## Summary of Skills
+
+•	Canadian Securities Course Candidate                     
+•	Customer Centered 
+•	Bloomberg
+•	Regulatory Compliance
+•	Financial Forecasting
+•	Quarto
+•	Strategic Financial Planning
+•	Financial and Operational Reporting
+•	Data Analysis
+•	Team Management
+•	Digital Currency and FINTECH
+•	R software
+•	Stata
+•	Latex
+•	SPSS
+
+
+## Work History
+### Cashier and Customer Experience Associate (Home Depot Canada)- 03/2023 to Date
+
+- Demonstrated expertise in assisting customers with product selection and providing in-depth knowledge of various home improvement categories.
+- Consistently met and exceeded monthly sales goals, resulting in recognition for outstanding performance.
+-Handled customer inquiries, resolved issues, and provided product recommendations based on customer needs.
+-	Maintained a clean and organized work environment, ensuring shelves were well-stocked and visually appealing.
+
+### Financial Advisor (Guaranty Trust Bank GH. LTD.)- 04/2017- 09/2022
+
+- Planned, coordinated and implemented activities for customer drive programs.
+- Leveraged on technology to drive sales and customer education. 
+- Sold investment products such as mutual funds and exchange traded funds. 
+-	Provided professional advice to address the investment and credit needs of clients. 
+
+
+## Education
+
+- M.A.Economics (2023-DATE), Memorial University of Newfoundland.
+- P.G.D Economics (2023), Memorial University of Newfoundland.
+- B.A.Economics (2014), KNUST. 
+
+
+## Licenses And Certifications
+
+- Canadian Securities Course (CSC) Candidate
+- Bloomberg Market Concepts
+- Banking Operations Management
+- TCPS 2: Core-2022
+
+
+## Grants and Fellowships
+
+-  M.A. Graduate Scholarship, Memorial University of Newfoundland. 
+
+
+
+
+
+
