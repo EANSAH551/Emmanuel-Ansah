@@ -1,12 +1,10 @@
 ---
-title: "Curriculum Vitae (CV)"
----editor: visual
-
+title: "Curriculum Vitae_1"
+format: pdf
+editor: visual
 ---
 
 
-
-PDF Version [here](docs/CV.pdf)
 
 ## Contact Information
 
@@ -72,8 +70,6 @@ Address: 19A Petite Forte Drive
 ## Grants and Fellowships
 
 -  M.A. Graduate Scholarship, Memorial University of Newfoundland. 
-
-
 
 
 

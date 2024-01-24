@@ -1,10 +1,66 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae_1",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "PDF Version here"
+  },
+  {
+    "objectID": "CV.html#contact-information",
+    "href": "CV.html#contact-information",
+    "title": "Curriculum Vitae_1",
+    "section": "Contact Information",
+    "text": "Contact Information\nEmail: eansah@mun.ca\nPhone: (709) 697-7532\nAddress: 19A Petite Forte Drive\nSt. John’s, NL, Canada\nA1B 0B2"
+  },
+  {
+    "objectID": "CV.html#summary-of-skills",
+    "href": "CV.html#summary-of-skills",
+    "title": "Curriculum Vitae_1",
+    "section": "Summary of Skills",
+    "text": "Summary of Skills\n• Canadian Securities Course Candidate\n• Customer Centered • Bloomberg • Regulatory Compliance • Financial Forecasting • Quarto • Strategic Financial Planning • Financial and Operational Reporting • Data Analysis • Team Management • Digital Currency and FINTECH • R software • Stata • Latex • SPSS"
+  },
+  {
+    "objectID": "CV.html#work-history",
+    "href": "CV.html#work-history",
+    "title": "Curriculum Vitae_1",
+    "section": "Work History",
+    "text": "Work History\n\nCashier and Customer Experience Associate (Home Depot Canada)- 03/2023 to Date\n\nDemonstrated expertise in assisting customers with product selection and providing in-depth knowledge of various home improvement categories.\nConsistently met and exceeded monthly sales goals, resulting in recognition for outstanding performance. -Handled customer inquiries, resolved issues, and provided product recommendations based on customer needs.\nMaintained a clean and organized work environment, ensuring shelves were well-stocked and visually appealing.\n\n\n\nFinancial Advisor (Guaranty Trust Bank GH. LTD.)- 04/2017 to 09/2022\n\nPlanned, coordinated and implemented activities for customer drive programs.\nLeveraged on technology to drive sales and customer education.\nSold investment products such as mutual funds and exchange traded funds.\nProvided professional advice to address the investment and credit needs of clients."
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Curriculum Vitae_1",
+    "section": "Education",
+    "text": "Education\n\nM.A.Economics (2023-DATE), Memorial University of Newfoundland.\nP.G.D Economics (2023), Memorial University of Newfoundland.\nB.A.Economics (2014), KNUST."
+  },
+  {
+    "objectID": "CV.html#licenses-and-certifications",
+    "href": "CV.html#licenses-and-certifications",
+    "title": "Curriculum Vitae_1",
+    "section": "Licenses And Certifications",
+    "text": "Licenses And Certifications\n\nCanadian Securities Course (CSC) Candidate\nBloomberg Market Concepts\nBanking Operations Management\nTCPS 2: Core-2022"
+  },
+  {
+    "objectID": "CV.html#grants-and-fellowships",
+    "href": "CV.html#grants-and-fellowships",
+    "title": "Curriculum Vitae_1",
+    "section": "Grants and Fellowships",
+    "text": "Grants and Fellowships\n\nM.A. Graduate Scholarship, Memorial University of Newfoundland."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Emmanuel Ansah",
+    "section": "",
+    "text": "Graduate Student\nDepartment of Economics\nMemorial University of Newfoundland\nGraduate Teaching Assistant\nDepartment of Economics\nMemorial University of Newfoundland"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Emmanuel Ansah",
+    "section": "About",
+    "text": "About\nI am Graduate Student and a Graduate Research Assistant in the Department of Economics at the Memorial University of Newfoundland. I am an accomplished financial professional with over five years of industry experience. Technically astute and decisive with good organizational skills. Candidate of the Canadian Securities Course. Passionate about building sustainable customer relationships, driving brand loyalty and increasing customer engagement. Experienced with sales, troubleshooting, tech support and customer care. Detail-oriented, multi-tasker that excels in high volume customer services environments."
   },
   {
     "objectID": "Curriculum Vitae (CV).html",
@@ -56,17 +112,10 @@
     "text": "Grants and Fellowships\n\nM.A. Graduate Scholarship, Memorial University of Newfoundland."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Emmanuel Ansah",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Graduate Student\nDepartment of Economics\nMemorial University of Newfoundland\nGraduate Teaching Assistant\nDepartment of Economics\nMemorial University of Newfoundland"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Emmanuel Ansah",
-    "section": "About",
-    "text": "About\nI am Graduate Student and a Graduate Research Assistant in the Department of Economics at the Memorial University of Newfoundland. I am an accomplished financial professional with over five years of industry experience. Technically astute and decisive with good organizational skills. Candidate of the Canadian Securities Course. Passionate about building sustainable customer relationships, driving brand loyalty and increasing customer engagement. Experienced with sales, troubleshooting, tech support and customer care. Detail-oriented, multi-tasker that excels in high volume customer services environments."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
