@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae_1"
+title: "Curriculum Vitae"
 format: pdf
 editor: visual
 ---
