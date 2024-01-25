@@ -7,9 +7,13 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "{{< fa house >}} Home"
       - href: Curriculum Vitae (CV).qmd
-        text: Curriculum Vitae (CV)
+        text: "{{< fa user-tie >}} Curriculum Vitae (CV)"
+        
+    right:
+      - href: Contact.qmd
+        text: "{{< fa envelope >}} Contact"  
 
 format:
   html:
