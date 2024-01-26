@@ -8,11 +8,11 @@ editor: visual
 
 ## Contact Information
 
-{{< fa envelope}} [eansah@mun.ca](mailto:eansah@mun.ca)
+{{< fa envelope >}} [eansah@mun.ca](mailto:eansah@mun.ca)
 
- {{< fa phone}} (709) 697-7532
+ {{< fa phone >}} (709) 697-7532
 
- {{< fa paper-plane}}: 19A Petite Forte Drive   
+ {{< fa paper-plane >}} 19A Petite Forte Drive   
          St. John's, NL, Canada   
          A1B 0B2
 
